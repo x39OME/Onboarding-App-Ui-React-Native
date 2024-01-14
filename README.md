@@ -6,3 +6,4 @@
 - npm i react-native-onboarding-swiper
 - npm i lottie-react-native => npm i lottie-react-native@5.1.6
 - [Lottie Files](https://lottiefiles.com/)
+- npm i @react-native-async-storage/async-storage
