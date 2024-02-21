@@ -42,7 +42,7 @@ export default function OnboardingScreen() {
                 <LottieView style={{flex:1}} source={require('../assets/animations/animation01.json')} autoPlay loop />
               </View>
             ),
-            title: 'Study Hard',
+            title: 'Hard Study',
             subtitle: 'Subscribe this channel to take courses and learn more',
           },
           // Page 2
@@ -53,7 +53,7 @@ export default function OnboardingScreen() {
                 <LottieView style={{flex:1}} source={require('../assets/animations/animation02.json')} autoPlay loop />
               </View>
             ),
-            title: 'Work Hard',
+            title: 'Hard Work',
             subtitle: 'Get your work done seamlessly without interruption',
           },
           // Page 3
