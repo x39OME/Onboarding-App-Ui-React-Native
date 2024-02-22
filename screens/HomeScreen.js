@@ -36,11 +36,11 @@ const styles = StyleSheet.create({
     backgroundColor:'white'
   },
   lottie:{
-    width: width*0.9,
+    width: width*0.8,
     height: width,
   },
   text: {
-    fontSize: width*0.09,
+    fontSize: width*0.08,
     marginBottom: 20,
   },
   resetButton: {
