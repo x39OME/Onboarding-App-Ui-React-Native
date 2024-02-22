@@ -47,7 +47,7 @@ export default function OnboardingScreen() {
           },
           // Page 2
           {
-            backgroundColor: '#F7CA79',
+            backgroundColor: '#fef3c7',
             image: (
               <View style={styles.lottie}>
                 <LottieView style={{flex:1}} source={require('../assets/animations/animation02.json')} autoPlay loop />
